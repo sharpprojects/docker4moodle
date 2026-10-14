@@ -3,6 +3,7 @@ mariadb
 mariadb-init
 web/html*
 web/moodledata
+web/moodle-plugin-ci
 web/behatdata
 web/behatfaildumps
 web/phpunitdata
